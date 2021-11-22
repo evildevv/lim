@@ -1,0 +1,119 @@
+
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+.sfondo2{
+background: rgba(0, 0, 0, 0.5);
+  width: 3800px;
+  height: 2590px;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 2%;
+}
+
+.logo1{
+  text-align: center;
+  margin-top: 6.5%
+}
+
+.titolo{
+  font-size:650%;
+  text-align: center;
+  color: lime;
+ margin-bottom: 1%;
+}
+
+nav{
+  background-color: lime;
+  width: 85%;
+  height:4%;
+  margin: auto;
+  margin-bottom: 13px;
+  text-align: center;
+
+}
+
+.linebcg {
+  display: inline-block;
+}
+
+.rowbottom input[type="bottom"]{
+  text-align: center;
+  }
+
+.prenota{
+font-size: 250%;
+margin-top: 2%;
+margin-left: 6px;
+width: 12%;
+padding: 1px 1px;
+}
+
+.prenota1{
+font-size: 250%;
+margin-top: 2%;
+margin-left: 6px;
+width: 28%;
+padding: 1px 1px;
+}
+
+.prenota2{
+font-size: 250%;
+margin-top: 2%;
+margin-left: 6px;
+width: 20%;
+padding: 1px 1px;
+}
+
+main{
+  text-align: left;
+  margin-top: 2%;
+  margin-left: 7.5%;
+}
+
+.scelta, input[type="checkbox"]
+{
+margin-top: 2%;
+font-size: 400%;
+color: white;
+  }
+
+  input[type="checkbox"]{
+    width:40px;
+    height:30px;
+  }
+
+.ricarica{
+  background-color: orange;
+  width: 30%;
+  height: 100%;
+  color: orange;
+  border-radius: 10px;
+}
+
+.ricarica1{
+  background-color: lime;
+  width: 55%;
+  height: 100%;
+  color:lime;
+  border-radius: 10px;
+}
+
+.ricarica2{
+  background-color: crimson;
+  width: 15%;
+  height: 100%;
+  color: crimson;
+  border-radius: 10px;
+}
+
+.riga2-3{
+  font-size: 40px;
+}
+
+.titolini{
+  font-size: 70px;
+}
